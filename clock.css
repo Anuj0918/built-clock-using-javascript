@@ -66,7 +66,7 @@
    .clock .hand.second {
      width: 3px;
      height: 45%;
-     background-color: red;
+     background-color: blueviolet;
    }
    
    .clock .hand.min {
